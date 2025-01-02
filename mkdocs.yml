@@ -1,0 +1,8 @@
+site_name: APCEMM
+nav:
+    - Home: index.md
+    - Getting Started: getting_started.md
+    - Development Roadmap: roadmap.md
+    - Community: community.md
+    - Publications: citations.md
+theme: readthedocs
